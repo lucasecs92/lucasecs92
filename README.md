@@ -11,6 +11,7 @@
 ### :rocket: &nbsp; Projects
 
 * [Meu Portfólio](https://portfolio-devlucas.vercel.app/)
+* [News App](https://l-news.vercel.app/)
 * [ChatBot](https://basicchatgpt.vercel.app/)
 * [Book Store](https://bookstore-l.vercel.app/)
 * [Weather App](https://weather-l.vercel.app/)
