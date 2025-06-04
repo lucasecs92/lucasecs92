@@ -11,6 +11,8 @@
 ### :rocket: &nbsp; Projects
 
 * [Meu Portfólio](https://portfolio-devlucas.vercel.app/)
+* [Cineminha](https://cineminha-streaming.vercel.app/)
+* [Shortly](https://links-shortly.vercel.app/)
 * [News App](https://l-news.vercel.app/)
 * [ChatBot](https://basicchatgpt.vercel.app/)
 * [Book Store](https://bookstore-l.vercel.app/)
