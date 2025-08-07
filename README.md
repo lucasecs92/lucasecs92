@@ -6,7 +6,7 @@
 ### :books: &nbsp; Technologies and Tools
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,sass,jquery,vite,nextjs,vercel,git,github,linux,ubuntu,debian,windows,vscode,nodejs,npm,yarn,firebase,supabase,notion,figma,materialui,discord&theme=light&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,vite,jquery,sass,vercel,git,github,linux,ubuntu,debian,windows,vscode,nodejs,npm,yarn,firebase,supabase,notion,figma,materialui,discord&theme=light&perline=14)](https://skillicons.dev)
 
 ### :rocket: &nbsp; Projects
 
